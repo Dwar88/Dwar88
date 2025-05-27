@@ -2,13 +2,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlzajNxbWFxc3oxbGh6enluZW50azJ4eGJ6dmlvZmk5NHNzZThzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.facebook.com/david.war.9/">
+    <a href="https://www.facebook.com/david.war.9">
       <img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=plastic" alt="facebook Badge"/>
     </a>
     <a href="https://www.instagram.com/david88war">
       <img src="https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=plastic" alt="instagram Badge"/>
     </a>
-    <a href="https://twitter.com/RangeTester">
+    <a href="https://twitter.com/davidwar88">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -24,10 +24,8 @@
 
 ---
 ### :man_technologist: About Me :
-I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
-- :telescope: I’m working as a Senior Test Engineer Contractor and contributing to projects both in Wellington and remotely around all New Zealand and Australia.
-
-- :seedling: Mentoring the new generations of Test Engineers in New Zealand through <a href="https://devacademy.co.nz/testing-automation-essentials/">DevAcademy Aotearoa</a>
+I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from El Salvador.
+- :telescope: I work as a technical operator in the POS area.
 
 - :zap: In my free time, I create content for <a href="https://www.freerangetesters.com/">Free Range Testers</a> and make music on <a href="https://open.spotify.com/intl-es/artist/1n8lYlkH7XKivKBmh6oey1/">Modern Druids</a>.
 
