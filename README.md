@@ -29,7 +29,7 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :zap: In my free time, In my free time I play soccer or video games and try to learn a lot about programming.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-m-690b3729)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.mail.google.com/davidwar88)
 
 ---
 
