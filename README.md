@@ -71,7 +71,7 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 ### :fire: My Stats :
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dwar88" alt="Dwar88" /></a> </p>
 <div align="center">  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=thefreerangetester&theme=dark&background=000000" width="100"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=thefreerangetester&theme=dark&background=000000" width="600"/>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwar88&layout=compact&theme=vision-friendly-dark" width="600"/>
